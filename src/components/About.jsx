@@ -6,7 +6,7 @@ const About = () => {
       <h2 style={styles.heading}>About Me</h2>
       <div style={styles.content}>
         <p style={styles.text}>
-          Hi! I'm <strong>[Your Name]</strong>, a passionate self-taught developer on a journey to build 50 awesome projects using only free tools and resources! 🚀
+          Hi! I'm <strong>Bhavik</strong>, a passionate self-taught developer on a journey to build 50 awesome projects using only free tools and resources! 🚀
         </p>
         <p style={styles.text}>
           I'm currently learning web development with React.js and exploring APIs, Firebase, and cool tools like Project IDX and GitHub. I love solving problems, building creative stuff, and sharing what I learn.
