@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
   return (
     <section id="home" style={styles.section}>
-      <h2 style={styles.name}>Hey, I'm [Your Name]</h2>
+      <h2 style={styles.name}>Hey, I'm Bhavik</h2>
       <p style={styles.tagline}>Aspiring Developer | Building 50 Projects Using Free Tools 🚀</p>
     </section>
   );
